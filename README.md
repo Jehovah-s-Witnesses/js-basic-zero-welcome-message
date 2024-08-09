@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-zero-welcome-message
 
-## Text
+## Ask user name(with message ```Enter your name```) and after that alert with entered name ```Hi, {{entered_name}}```
 
 ## We have a problem with loading script and access to html element due loading. Please, fix the place of script in html file
 
